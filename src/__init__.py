@@ -1,0 +1,3 @@
+"""
+Speech Emotion Recognition module
+"""
